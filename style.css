@@ -69,7 +69,15 @@ p {
     grid-template-columns: max-content max-content;
     margin-top: 1.8rem;
 }
-
+.sr-only {
+    position: absolute;
+    left: -9999px;
+    color: transparent;
+    background-color: transparent;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
 .current-price {
     color: var(--dark-cyan);
     font-family: 'Fraunces', serif;
