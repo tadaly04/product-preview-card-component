@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [View it here](https://tadaly04.github.com/product-preview-card-component)
+- Live Site URL: [View it here](https://tadaly04.github.io/product-preview-card-component)
 
 ## My process
 
